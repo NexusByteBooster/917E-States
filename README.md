@@ -1,2 +1,1 @@
-917X VRC High Stakes Repository </br>
-Subsystems & Algorithms are derived & modded from LemLib
+917E VRC High Stakes Repository
